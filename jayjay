@@ -1263,6 +1263,54 @@ http://supersonictv.live:8080/611366/682256/22125
 **********test**********
 
 #EXTINF:-1 group-title="test"
+#EXTINF:54, (TFC Asia-Pacific) New Link
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119524.ts
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Cinema One Global) New Link
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119454.ts
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Cinemo Global) New Link
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119457.ts
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Myx Global) New Link
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119495.ts
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Fox News Channel) New
+http://hestiahestia.quicksytes.com:2096/Kentynes/0176324859/814512
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (CCTN 47 Cebu) Regional-Religious Cebuano Channel (New)
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Color Infinity (US Series Entertainment Channel) New
+http://103.229.254.25:7001/play/a0du/index.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Sony Pix - Hollywood Channel) New
+http://desyra.co:80/live/8964476/3pUJreUXUW/147.ts
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (National Geographic Channel HD India) New
+http://103.157.248.140:8000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54, (Nat Geo Wild HD India) New
+http://103.157.248.140:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:54,TVN_movies (Tap Silog) New
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30, (KIX) New link with English and Vietnamese Subtitle.
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+
+#EXTINF:-1 group-title="test"
 #EXTINF:30,Sky News Europe
 https://webtvstream.bhtelecom.ba/sky_news.m3u8
 
