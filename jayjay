@@ -1263,6 +1263,30 @@ http://supersonictv.live:8080/611366/682256/22125
 **********test**********
 
 #EXTINF:-1 group-title="test"
+#EXTINF:30,Sky News Europe
+https://webtvstream.bhtelecom.ba/sky_news.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30,Star Crime Balkan Europe
+https://webtvstream.bhtelecom.ba/star_crime.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30,Star Life Balkan Europe
+https://webtvstream.bhtelecom.ba/star_life.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30,Star Channel Balkan Europe
+https://webtvstream.bhtelecom.ba/star_channel.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30,Star Movies Balkan Europe
+https://webtvstream.bhtelecom.ba/star_movies.m3u8
+
+#EXTINF:-1 group-title="test"
+#EXTINF:30,Star Movies Select HD India
+http://desyra.co/8964476/3pUJreUXUW/23270
+
+#EXTINF:-1 group-title="test"
 #EXTINF:30,Star Movies HD India
 http://desyra.co/8964476/3pUJreUXUW/979
 
