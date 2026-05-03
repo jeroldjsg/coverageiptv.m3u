@@ -1261,19 +1261,15 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:30,Fashion One
-#EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/vi...fwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 #EXTINF:65,Global Fashion Channel
-#EXTVLCOPT:network-caching=1000
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:54,InTravel (1080p)
-#EXTVLCOPT:network-caching=1000
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:66,CCTN 47 (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
 **********FM Radio**********
