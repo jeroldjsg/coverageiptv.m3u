@@ -1263,6 +1263,10 @@ http://supersonictv.live:8080/611366/682256/22125
 **********test**********
 
 #EXTINF:-1 group-title="test"
+#EXTINF:30,Star Movies HD India
+http://desyra.co/8964476/3pUJreUXUW/979
+
+#EXTINF:-1 group-title="test"
 #EXTINF:30,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
