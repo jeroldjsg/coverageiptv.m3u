@@ -1263,19 +1263,19 @@ http://supersonictv.live:8080/611366/682256/22125
 **********test**********
 
 #EXTINF:-1 group-title="test"
-#EXTINF:54, (TFC Asia-Pacific) New Link
+#EXTINF:54, (TFC Asia-Pacific) New
 http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119524.ts
 
 #EXTINF:-1 group-title="test"
-#EXTINF:54, (Cinema One Global) New Link
+#EXTINF:54, (Cinema One Global) New
 http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119454.ts
 
 #EXTINF:-1 group-title="test"
-#EXTINF:54, (Cinemo Global) New Link
+#EXTINF:54, (Cinemo Global) New
 http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119457.ts
 
 #EXTINF:-1 group-title="test"
-#EXTINF:54, (Myx Global) New Link
+#EXTINF:54, (Myx Global) New
 http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119495.ts
 
 #EXTINF:-1 group-title="test"
